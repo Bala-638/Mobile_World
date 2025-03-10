@@ -16,7 +16,7 @@ JavaScript
 
 🚀 How to Use
 
-1. Visit the live site: https://bala-638.github.io/Mobile_World/
+1. 🔗 **Visit the live site:** [Mobile World](https://bala-638.github.io/Mobile_World/)
 
 
 2. Browse products, add to cart, and explore features.
