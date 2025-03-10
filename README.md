@@ -3,7 +3,7 @@ Mobile World - Ecommerce Website
 
 📱 A fully responsive mobile eCommerce website built using HTML, CSS, and JavaScript.
 
-🔗 Live : https://bala-638.github.io/Mobile_World/
+🔗 **Live Demo:** [Mobile World](https://bala-638.github.io/Mobile_World/)
 
 🛠️ Technologies Used
 
